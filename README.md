@@ -1,8 +1,6 @@
 
 # APPS Modernization: 
 
-https://medium.com/techmonks/12-factor-app-principles-and-cloud-native-microservices-a383f6abc97f
-
 Below are the 12-factor principles
 
 1) Codebase (One codebase tracked in revision control, many deploys)
@@ -91,4 +89,8 @@ Below are the 12-factor principles
 	There is a number of one-off processes as part of the application deployment like data migration, executing one-off scripts in a specific environment.
 
 	Twelve-factor principles advocates for keeping such administrative tasks as part of the application codebase in the repository. By doing so, one-off scripts follow the same process defined for your codebase.
+
+Source: 
+
+https://medium.com/techmonks/12-factor-app-principles-and-cloud-native-microservices-a383f6abc97f
 
