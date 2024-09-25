@@ -1,5 +1,5 @@
 
-# APPS Modernization: 
+# 12 APPS Modernization Principals
 
 Below are the 12-factor principles
 
